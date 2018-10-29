@@ -1,0 +1,11 @@
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\bin\Debug\simple Twain.exe.config
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\bin\Debug\simple Twain.exe
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\bin\Debug\simple Twain.pdb
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\bin\Debug\Saraff.Twain.dll
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\bin\Debug\Saraff.Twain.xml
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\obj\Debug\simple Twain.csprojResolveAssemblyReference.cache
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\obj\Debug\simple_Twain.Form1.resources
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\obj\Debug\simple_Twain.Properties.Resources.resources
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\obj\Debug\simple Twain.csproj.GenerateResource.Cache
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\obj\Debug\simple Twain.exe
+C:\Users\pailinn\Desktop\simple Twain\simple Twain\obj\Debug\simple Twain.pdb
